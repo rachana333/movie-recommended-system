@@ -1,6 +1,6 @@
 #  movie-recommended-system
  
-## Installation 📦
+## Installation 
 
 >pip install -r requirements.txt
 
@@ -15,8 +15,8 @@ $ python manage.py runserver
 ```
 > Go to localhost:8000
 
----
-## Features 📋
+
+## Features 
 * User can register and login.
 * User can search through various movies and look through its details.
 * User can give rating to the movies.
@@ -25,6 +25,7 @@ $ python manage.py runserver
 ---
 
 ## Algorithm
+
 ##### Collabortive Filtering (Recommender Algorithm)
 * Collaborative filtering filters information by using the interactions and data collected by the system from other users. It's based on the idea that people who agreed in their evaluation of certain items are likely to agree again in the future.
 * When we want to find a new movie to watch we'll often ask our friends for recommendations. Naturally, we have greater trust in the recommendations from friends who share tastes similar to our own.
@@ -37,7 +38,7 @@ $ python manage.py runserver
      
   ---
 
-## Contributing 💡
+## Contributing 
 
 
 #### Step 1
@@ -46,12 +47,12 @@ $ python manage.py runserver
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine.
+    -  Clone this repo to your local machine.
 
 
 #### Step 2
 
-- **Build your code** 🔨🔨🔨
+- **Build your code** 
 
 #### Step 3
 
