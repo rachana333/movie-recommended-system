@@ -2,7 +2,7 @@
 
 This is my FRT Internship project
 
-azure link: https://dwellerr.z29.web.core.windows.net/
+azure link: https://movie-recommended-system.azurewebsites.net/
 
 # Project Statement:
 
