@@ -1,23 +1,21 @@
 #  movie-recommended-system
 
-# This is my FRT Internship project
+This is my FRT Internship project
 
 azure link: https://dwellerr.z29.web.core.windows.net/
 
 # Project Statement:
 
-In a real estate environment, it can be easy to overlook the significance of a project manager’s role: to keep the project moving on schedule and under budget. In the past, some project managers had to justify their presence on a project site. But today, project managers’ pay structure — and the incentives for projects wrapping up as planned — indicates that their value has proven itself over time.
-
+The primary goal of movie recommendation systems is to filter and predict only those movies that a corresponding user is most likely to want to watch. The ML algorithms for these recommendation systems use the data about this user from the system's database.Nowadays, the recommendation system has made finding the things easy that we need. Movie recommendation systems aim at helping movie enthusiasts by suggesting what movie to watchwithout having to go through the long process of choosing from a large set of movies which go up tothousands and millions that is time consuming and confusing. In this article, our aim is to reduce the human effort by suggesting movies based on the user’s interests. To handle such problems, weintroduced a model combining both content-based and collaborative approach. It will giveprogressively explicit outcomes compared to different systems that are based on content-basedapproach. Content-based recommendation systems are constrained to people, these systems don’t prescribe things out of the box, thus limiting your choice to explore more. Hence, we have focused
+on a system that resolves these issues
+ 
 # Project Description:
 
-Real estate is considered real property that includes land and anything permanently attached to it or built on it, whether natural or man-made. There are five main categories of real estate which include residential, commercial, industrial, raw land, and special use. Investing in real estate includes purchasing a home, rental property, or land. Indirect investment in real estate can be made via REITs or through pooled real estate investment.
+Movie recommender systems are meant to give suggestions to the users based on the features they love the most. A highly performing movie recommendation will suggest movies that match the similarities with the highest degree of performance. This study conducts a systematic literature review on movie recommender systems. It highlights the filtering criteria in the recommender systems, algorithms implemented in movie recommender systems, the performance measurement criteria, the challenges in implementation, and recommendations for future research. Some of the most popular machine learning algorithms used in movie recommender systems such as K-means clustering, principal component analysis, and self-organizing maps with principal component analysis are discussed in detail. Special emphasis is given to research works performed using metaheuristic-based recommendation systems. The research aims to bring to light the advances made in developing the movie recommender systems, and what needs to be performed to reduce the current challenges in implementing the feasible solutions. The article will be helpful to researchers in the broad area of recommender systems as well as practicing data scientists involved in the implementation of such systems.
 
 # Azure Technologies used :
-1.Static Web Apps(for deployment of the website).
 
-2.Azure Storage Accounts.
-
-3.Container
+WEB APPS
 
 # Web Technologies used :
 1.HTML
