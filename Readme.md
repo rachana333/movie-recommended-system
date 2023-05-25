@@ -1,6 +1,6 @@
 #  movie-recommended-system
 
-# This is my FRT Internship project....
+# This is my FRT Internship project
 
 azure link: https://dwellerr.z29.web.core.windows.net/
 
