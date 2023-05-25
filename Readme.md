@@ -18,11 +18,14 @@ Movie recommender systems are meant to give suggestions to the users based on th
 WEB APPS
 
 # Web Technologies used :
-1.HTML
 
-2.CSS
+1.PYTHON
+ 
+2.HTML
 
-3.JavaScript
+3.CSS
+
+
 
 # IDE Used :
 Vs code
